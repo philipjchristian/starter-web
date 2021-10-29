@@ -1,10 +1,14 @@
 <!DOCTYPE html>
+
 <<<<<<< HEAD
-	<title>A very respectul website</title>
+    adding changes before rebasing conflict.
+
+    silly changes
 =======
+   WE ARE IN TROUBLE
+>>>>>>> fb adding some trouble to simple.html:
 <head>
-	<title>A great website for the real reveloper</title>
->>>>>>> realwork
+	<title>A great website</title>
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
 		body {
