@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-Adding a line for rebasing example, more features..
+Adding a line for rebasing example, more features.Adding special commands to this file.
 
 ## Introduction
 
