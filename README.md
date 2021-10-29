@@ -20,4 +20,5 @@ Sample website with plenty of files for demo
 
 ### Copyright
 
-This is a copyright notice
+All rights reserved
+
